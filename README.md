@@ -2,7 +2,7 @@
 => npm create-react-app </br>
 => Fetching data (API) </br>
 => Handle Errors  </br>
-=> bulit-in hooks (useState,useEffect,useRef)  </br>
+=> built-in hooks (useState,useEffect,useRef)  </br>
 => Custom Hooks  </br>
 
 ## Available Scripts
