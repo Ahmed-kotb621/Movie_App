@@ -1,9 +1,9 @@
 ### Tools & Approaches
-=> npm create-react-app
-=> Fetching data (API)
-=> Handle Errors
-=> bulit-in hooks (useState,useEffect,useRef)
-=> Custom Hooks
+=> npm create-react-app </br>
+=> Fetching data (API) </br>
+=> Handle Errors  </br>
+=> bulit-in hooks (useState,useEffect,useRef)  </br>
+=> Custom Hooks  </br>
 
 ## Available Scripts
 
